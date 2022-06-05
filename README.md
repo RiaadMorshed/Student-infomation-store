@@ -11,9 +11,9 @@ This is a simple crud project built with the following technologi es:
 
 ## Screenshot
 
-![Home page](screenshot/home.png)
-![Add studdent page](screenshot/addStudent.png)
-![Edit student page](screenshot/edit.png)
+![Home page](screenshot/home.PNG)
+![Add studdent page](screenshot/addStudent.PNG)
+![Edit student page](screenshot/edit.PNG)
 
 ## Usage
 
